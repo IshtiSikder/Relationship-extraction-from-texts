@@ -1,3 +1,3 @@
 # Relationship-extraction-from-texts
 
-Details regarding the model has been outlined step by step through text cells in Google colab.
+Kindly open the .ipynb file in this repository to learn the details of this model, which have been outlined step by step through text cells in Google colab.
